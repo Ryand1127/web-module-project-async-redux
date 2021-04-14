@@ -1,0 +1,38 @@
+body {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-image: url(https://www.imagup.com/wp-content/uploads/2020/02/Old-School-RuneScape.jpg);
+  background-repeat: no-repeat;
+  background-size: auto;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.itemContainer {
+  background-color: rgba(0, 0, 0, 0.8);
+  color: yellow;
+  border: 4px solid brown;
+  width: 10%;
+  margin-left: 0.5%;
+  margin-top: 0.5%;
+  text-align: center;
+}
+
+.flex {
+  display: flex;
+  flex-flow: row wrap;
+  margin: 0 auto;
+}
+a {
+  color: yellow;
+}
+
+img {
+  width: 500px;
+}
